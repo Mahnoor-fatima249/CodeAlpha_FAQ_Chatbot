@@ -1,0 +1,6 @@
+{
+    "What is Python?": "Python is a high-level, interpreted programming language known for its readability.",
+    "What is AI?": "Artificial Intelligence is the simulation of human intelligence processes by machines.",
+    "How to run this chatbot?": "You can run this chatbot using the 'streamlit run app.py' command.",
+    "Who developed you?": "I am an AI chatbot developed by Mahnoor Fatima as part of her CodeAlpha internship."
+}
